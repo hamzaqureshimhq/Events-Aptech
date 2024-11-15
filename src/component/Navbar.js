@@ -3,7 +3,7 @@ function Navbar(){
         <>
       <nav className="navbar navbar-expand-lg sticky-top" style={{ backgroundColor: '#cccccc' }}>
       <div className="container-fluid">
-        <a className="navbar-brand" href="#">AS Banquet</a>
+        <a className="navbar-brand" href="#"> HAMZA Banquet</a>
         <button
           className="navbar-toggler"
           type="button"
